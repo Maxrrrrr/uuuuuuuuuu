@@ -817,6 +817,7 @@ img {
 .callback-btn:focus {
   border: none;
 }
+
 /* -----------  @media  --------------- */
 
 @media screen and (min-resolution: 192dpi) {
